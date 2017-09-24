@@ -1,0 +1,57 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  color: white;
+
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 2px 0 0 black, -2px 0 0 black , 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+}
+h2 {
+    text-align: center;
+    text-shadow: 2px 0 0 black, -2px 0 0 black , 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+
+}
+form {
+  text-align: center;
+}
+
+input {
+  border: none;
+  border-bottom: 2px dotted black;
+  margin-left: 0.5em;
+  font-size: 1em;
+  outline: none;
+}
+
+.wrapper {
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.temp-wrapper {
+  text-align: center;
+  position: relative;
+}
+
+.temp {
+  font-size: 64px;
+}
+
+.temp-symbol {
+  position: absolute;
+  top: 13px;
+  margin-left: 4px;
+}
+
+.temp-date {
+  position: absolute;
+  bottom: -1em;
+  left: 50%;
+  transform: translateX(-50%);
+  color: rgba(0, 0, 0, 0.5);
+}
+
+
