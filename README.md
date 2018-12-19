@@ -1,9 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+Simple and beautiful weather app in react :) thank you!
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-## Table of Contents
+here are instructions on how to run it on your machine:
 
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
